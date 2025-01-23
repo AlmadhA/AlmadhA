@@ -33,6 +33,7 @@ Welcome to my GitHub profile! I specialize in turning raw data into actionable i
 ---
 
 ### 🤝 Let's Connect!
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/almadharafifp/)
 - **LinkedIn**: https://www.linkedin.com/in/almadharafifp/(#)
 - **Email**: almadha.workbusiness@gmail.com(#)
 - **Portfolio**: Soon(#)
