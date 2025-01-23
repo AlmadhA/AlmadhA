@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Almadha Rafif! 👋
 
-<!--
-**AlmadhA/AlmadhA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Enthusiast | 🖥️ Problem Solver | 🚀 Lifelong Learner  
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I specialize in turning raw data into actionable insights and building data-driven solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 What I Do:
+- **Data Analysis & Visualization**: Using tools like `Power BI`, `Tableau`, `Streamlit`, and `Looker Studio` to tell compelling data stories.
+- **Coding & Automation**: Writing efficient scripts in `Python` to streamline processes.
+- **Business Insights**: Expertise in Accounting and Bussiness Management.
+
+---
+
+### 🛠️ Tools & Technologies:
+- **Languages**: Python
+- **Tools**: Power BI, Streamlit, Tableau, Looker Studio
+- **Specialties**: Financial Analysis, Bussiness Analysis, Dashboard Creation, 
+
+---
+
+### 🌱 Current Focus:
+- Building a robust portfolio of **Data Visualizations** and **Predictive Analytics** projects.
+- Learning more about `Machine Learning`, `Big Data`, and `Automatization`.
+
+---
+
+### 📈 My Recent Work:
+- **FP&A Dashboard**: Streamlined Financial planning for PT. Pesta Pora Abadi.
+- **Inventory Optimization Tools**: Automated stock management to save costs.
+
+---
+
+### 🤝 Let's Connect!
+- **LinkedIn**: https://www.linkedin.com/in/almadharafifp/(#)
+- **Email**: almadha.workbusiness@gmail.com(#)
+- **Portfolio**: Soon(#)
