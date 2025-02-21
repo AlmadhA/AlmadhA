@@ -35,5 +35,5 @@ Welcome to my GitHub profile! I specialize in turning raw data into actionable i
 ### 🤝 Let's Connect!
 - **LinkedIn**    : [Connect with me on LinkedIn!](https://www.linkedin.com/in/almadharafifp/)
 - **Email**       : [Reach out via Email!](mailto:almadha.workbusiness@gmail.com)
-- **Portfolio**   : Coming soon... 🚀
+- **Portfolio**   : [Explore my Portfolio!](https://fnb-dashboard.streamlit.app/)
 
